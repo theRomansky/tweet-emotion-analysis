@@ -2,4 +2,3 @@ data/
 .idea
 .DS_Store
 notebooks/testing.ipynb
-notebooks/RNN.ipynb
