@@ -12,9 +12,6 @@ The project consists of the following components:
 - **dance_model_with_emb_text.ipynb**: In this notebook, I implement a fully connected model for classification using text embeddings.
 - **lstm.ipynb**: This notebook contains an LSTM model.
 
-## Work in Progress
-Please note that this project is not yet complete, and I'm actively working on refining the models and improving classification accuracy. Feel free to explore the notebooks and provide feedback or suggestions for improvement.
-
 ## Feedback
 Your feedback is highly appreciated! If you have any questions, suggestions, or contributions, please feel free to reach out.
 
